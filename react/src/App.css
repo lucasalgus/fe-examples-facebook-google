@@ -1,0 +1,15 @@
+.App {
+	margin: 0 auto;
+	max-width: 600px;
+	margin-top: 20px;
+}
+
+.Spacer {
+	height: 20px;
+}
+
+.FlexSpacer {
+	display: flex;
+	justify-content: space-between;
+}
+
